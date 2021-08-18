@@ -1,0 +1,7 @@
+__history/
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.dsk
+*.res
